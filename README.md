@@ -20,3 +20,5 @@ b) Ahora habrá que llenar dos datos, y crearlo como *Public*:
 ¡Listo! Repositorio creado, ahora lo vas a poder ver en tu perfil.
 
 Leyendo el material provisto en el curso, te invitamos a que crees un proyecto, añadas tu primer commit y nos cuentes cómo te fue (=
+
+Podes leer más en la [comunidad Github] (https://docs.github.com/en/github/getting-started-with-github/create-a-repo)
