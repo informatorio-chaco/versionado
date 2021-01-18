@@ -4,7 +4,7 @@
 **1) Crear una cuenta**
 * Para crear una cuenta GitHub vamos a seguir los siguientes pasos: 
 
-a) Entrá a [GitHub] (http://github.com)
+a) Entrá a [GitHub](http://github.com)
 b) Hacé clic en *Sign up*
 c) Completa los datos solicitados y verifica la dirección de email que proporciones.
 
@@ -21,4 +21,4 @@ b) Ahora habrá que llenar dos datos, y crearlo como *Public*:
 
 Leyendo el material provisto en el curso, te invitamos a que crees un proyecto, añadas tu primer commit y nos cuentes cómo te fue (=
 
-Podes leer más en la [comunidad Github] (https://docs.github.com/en/github/getting-started-with-github/create-a-repo)
+Podes leer más en la [comunidad Github](https://docs.github.com/en/github/getting-started-with-github/create-a-repo)
