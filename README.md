@@ -5,13 +5,16 @@
 * Para crear una cuenta GitHub vamos a seguir los siguientes pasos: 
 
 a) Entrá a [GitHub](http://github.com)
+
 b) Hacé clic en *Sign up*
+
 c) Completa los datos solicitados y verifica la dirección de email que proporciones.
 
 **2) Crear un repositorio**
 * ¿Cómo crear un repositorio?
 
 a) Para crear un repositorio en GitHub, solo hay que seleccionar el botón “Create a New Repo”, de la barra de herramientas, habiendo entrado a GitHub con tu cuenta.
+
 b) Ahora habrá que llenar dos datos, y crearlo como *Public*:
 
 >Nombre del repositorio
